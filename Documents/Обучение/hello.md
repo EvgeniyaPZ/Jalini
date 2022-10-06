@@ -1,6 +1,20 @@
 # Заголовок 
 
-hell
+*heading*
+
+## HEADING ##
+
+corse
+===
+
+corse
+==
+
+~~hell~~
+
+
+
+~crossed out~
 
 helli 2git 
 
